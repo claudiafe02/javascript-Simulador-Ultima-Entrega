@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.header{
+    width: 50%;
+    min-height: 10%;
+    background-color: rgba(43, 113, 226, 0.967);
+}
+h1{
+    margin-left: 15%;
+    padding-top: 1.5%;
+    color:aliceblue;
+    font-weight: 400;
+}
+.main{
+    width: 50%;
+    min-height: 90%;
+    background-color: rgba(124, 153, 248, 0.838);
+    display: flex; 
+    flex-direction: column;
+}
+.containerForm{
+    min-height: 30%;
+}
+h3{
+    padding-top: .5%; 
+    margin-left: 15%;
+    font-size: 15px;
+    font-weight: 500;
+}
+.menu{
+    width: 40%;
+    font-size: 15px;
+    margin-left: 7.5%;
+}
+select{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.importe{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 7.5%;
+    margin-bottom: 10px;
+}
+.fecha{
+    width: 11%;
+    margin-top: 10px;
+    margin-left: 7.5%;
+    margin-bottom: 25px;
+}
+.boton{
+    width: 20%;
+    margin-bottom: 5%;
+    margin-left: 7%;
+    min-height: 30px;
+    font-size: 15px;
+    background-color: rgba(43, 113, 226, 0.967);
+    color: black;
+}
+.containerSimul{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 2% 98%;
+}
+.containerVer {
+    grid-column: 1/ span3;
+    grid-row: 1/2;
+}
+ h2{
+    margin-top: 3%;
+    margin-bottom: 1.5%;
+    margin-left: 1%; 
+    color:aliceblue;
+    font-size: 17px;
+    font-weight: 400;
+} 
+.verSA {
+    width: 30%;  
+    min-height: 30px;
+    margin-left: 7%;
+    font-size: 15px;
+    background-color: rgba(43, 113, 226, 0.967);
+    color:aliceblue;
+}
+.verT {
+    width: 25%;  
+    min-height: 30px;;
+    margin-left: 15%;
+    font-size: 15px;
+    background-color: rgba(43, 113, 226, 0.967);
+    color:aliceblue;
+}
+.registros {
+    grid-column: 1/span 3;
+    grid-row: 2/3;
+    margin-top: 2%; 
+    margin-right: 1%;
+    margin-left: 1%;
+    /* font-size: 13.5px; */
+    color:aliceblue;
+}
+h4{
+    margin-top: 3%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    font-size: 13px;
+    font-weight: 500;
+}
+p {
+    margin-bottom: 1%;
+    margin-left: 1%;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+

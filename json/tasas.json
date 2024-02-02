@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 30 A 35 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 2,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 36 A 44 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 3,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 45 A 59 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 4,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 60 A 89 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 5,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 90 A 119 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 6,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 120 A 179 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 7,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 180 A 270 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 8,
+        "nombre":"$ PF-REGULADO BCRA",
+        "descripcion":"DE 271 A 365 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 9,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 30 A 35 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 10,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 36 A 44 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 11,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 45 A 59 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 12,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 60 A 89 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 13,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 90 A 119 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 14,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 120 A 179 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 15,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 180 A 270 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 16,
+        "nombre":"$ PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 271 A 365 DIAS",
+        "tasa": "110%"
+    },
+    {
+        "id": 17,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 30 A 35 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 18,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 36 A 44 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 19,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 45 A 59 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 20,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 60 A 89 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 21,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 90 A 119 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 22,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 120 A 179 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 23,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 180 A 270 DIAS",
+        "tasa": "0.10%"
+    },
+    {
+        "id": 24,
+        "nombre":"U$S PF-TRADICIONAL CLIENTES",
+        "descripcion":"DE 271 A 365 DIAS",
+        "tasa": "0.10%"
+    }
+]
